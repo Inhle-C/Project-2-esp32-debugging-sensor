@@ -112,6 +112,10 @@ Temperature is 20C (or 68F) with a 44% humidity
 ### License
 This project is for educational purposes.
 
-Next Project: ESP32 Sensor Data Logger 🔗
+Previous Project: [ESP32 LED Blinker](https://github.com/Inhle-C/Project-1-esp32-pi4-iot-setup)  
+(Part 1 of the series)
+
+Next Project: [ESP32 LED Sensor Data Display]([https://github.com/Inhle-C/Project-3-esp32-sensor-data-logger](https://github.com/Inhle-C/Project-3-esp32-lab3-display-sensor))  
 (To be uploaded as Part 3 of the series)
+
 
