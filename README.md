@@ -21,20 +21,20 @@ The goal is to strengthen skills in embedded debugging and sensor interfacing ov
 - ✅ Print readings in Celsius, Fahrenheit, and percentage humidity
 
 ## Project Structure
-esp32-lab2-debugging-sensor/
-├── report.pdf # Lab report (required)
-├── lab2_debug/ # Lab 2.1: GDB Debugging
-│ ├── lab2_debug.elf
-│ ├── lab2_image.S
-│ └── gdbinit
-├── lab2_2/ # Lab 2.2: Humidity and Temperature Sensor
-│ ├── sdkconfig
-│ ├── CMakeLists.txt
-│ ├── README.md
-│ └── main/
-│ ├── CMakeLists.txt
-│ ├── main.c
-│ └── sensor.h
+esp32-lab2-debugging-sensor/  
+├── report.pdf # Lab report (required)  
+├── lab2_debug/ # Lab 2.1: GDB Debugging  
+│ ├── lab2_debug.elf  
+│ ├── lab2_image.S  
+│ └── gdbinit  
+├── lab2_2/ # Lab 2.2: Humidity and Temperature Sensor  
+│ ├── sdkconfig  
+│ ├── CMakeLists.txt  
+│ ├── README.md  
+│ └── main/  
+│ ├── CMakeLists.txt  
+│ ├── main.c  
+│ └── sensor.h  
 
 
 ## Setup Instructions
