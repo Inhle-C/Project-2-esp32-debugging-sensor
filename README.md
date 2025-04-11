@@ -31,6 +31,7 @@ esp32-lab2-debugging-sensor/
 │ ├── sdkconfig  
 │ ├── CMakeLists.txt  
 │ ├── README.md  
+| ├── hello.bin // not on git as file is too big to upload  
 │ └── main/  
 │ ├── CMakeLists.txt  
 │ ├── main.c  
