@@ -116,7 +116,7 @@ This project is for educational purposes.
 Previous Project: [ESP32 LED Blinker](https://github.com/Inhle-C/Project-1-esp32-pi4-iot-lab-setup)  
 (Part 1 of the series)
 
-Next Project: [ESP32 LED Sensor Data Display](https://github.com/Inhle-C/Project-3-esp32-sensor-data-logger)  
+Next Project: [ESP32 LED Sensor Data Display](https://github.com/Inhle-C/Project-3-esp32-display-sensor)  
 (To be uploaded as Part 3 of the series)
 
 
